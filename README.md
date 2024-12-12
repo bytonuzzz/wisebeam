@@ -1,8 +1,8 @@
-# 🎉 **Advice Generator** 🎉  
+# 🎉 **Wise Beam** 🎉  
 
 ## 🌟 Overview  
 This project is a **Front-End Mentor Junior Challenge**, completed in just **one day**! 🚀  
-The **Advice Generator** is a sleek and interactive app designed to provide users with random pieces of advice using an external API. 🧠✨  
+The **Wise Beam** is a sleek and interactive app designed to provide users with random pieces of advice using an external API. 🧠✨  
 
 ---
 
@@ -32,7 +32,7 @@ This project showcases a blend of essential tools and modern web skills:
 ---
 
 ## 🖼️ Screenshots  
-![Advice Generator Screenshot](https://via.placeholder.com/800x400?text=Project+Screenshot)  
+![Wise Beam Screenshot](https://via.placeholder.com/800x400?text=Project+Screenshot)  
 > Replace this placeholder with an actual screenshot of the application! 🌟  
 
 ---
@@ -50,6 +50,3 @@ This project showcases a blend of essential tools and modern web skills:
 - 🔧 **JavaScript Logic**: Enhanced ability to handle events and dynamically update the DOM.  
 
 ---
-
-## 💖 Acknowledgments  
-Thanks to **[Front-End Mentor](https://www.frontendmentor.io/)** for providing this engaging challenge! 🎉  
