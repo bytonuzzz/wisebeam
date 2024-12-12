@@ -32,7 +32,7 @@ This project showcases a blend of essential tools and modern web skills:
 ---
 
 ## 🖼️ Screenshots  
-![Wise Beam Screenshot](https://via.placeholder.com/800x400?text=Project+Screenshot)  
+![Wise Beam Screenshot](https://pikwy.com/web/675a82f0308e00099a0ea39e)  
 > Replace this placeholder with an actual screenshot of the application! 🌟  
 
 ---
